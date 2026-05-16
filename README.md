@@ -1,3 +1,5 @@
+**Created by: Fatima Riaz**
+
 # Guess the Number Game
 
 A simple Python game where you guess a random number between 1 and 100.
@@ -19,5 +21,3 @@ A simple Python game where you guess a random number between 1 and 100.
 
 ```bash
 python "MP1 Guess the number .py"
-
-**Created by: Fatima Riaz**
